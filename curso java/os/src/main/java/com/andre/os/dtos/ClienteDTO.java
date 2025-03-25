@@ -11,7 +11,7 @@ import java.io.Serializable;
 
 public class ClienteDTO extends TecnicoDTO implements Serializable {
     @Serial
-    private static final long serialVersionUID = 1L;
+    private static final long serialVersionUID = 1L; // Cetando alterações
 
     private Integer id;
 
